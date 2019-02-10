@@ -1,0 +1,4 @@
+.events-list__item:not(:last-child) {
+  margin-bottom: 15px; }
+
+/*# sourceMappingURL=event-list.css.map */

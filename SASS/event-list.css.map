@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAKI,mCAAmB;EACjB,aAAa,EAAE,IAAI",
+"sources": ["event-list.scss"],
+"names": [],
+"file": "event-list.css"
+}

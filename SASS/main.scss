@@ -1,0 +1,40 @@
+body {
+  font-size: 16px;
+  font-family: 'Lato', sans-serif;
+  font-weight: 400;
+  background-color: #FE5B52;
+}
+
+h1,h2,h3,h4 {
+  color: #fff;
+}
+
+h1 {
+  font-size: 2.5rem;
+  margin-top: 0;
+  margin-bottom: 15px;
+}
+
+h2 {
+  font-size: 2rem;
+  margin-top: 0;
+  margin-bottom: 15px;
+}
+
+h3 {
+  font-size: 1.8rem;
+  margin-top: 0;
+  margin-bottom: 15px;
+  color: #fff;
+}
+
+
+.content {
+  width: 1000px;
+  margin: 0 auto;
+  max-width: 100%;
+}
+
+.month {
+  margin-bottom: 30px;
+}

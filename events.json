@@ -1,0 +1,109 @@
+{
+ "events":[
+   {
+    "id": "e1",
+    "date": "2019, 2, 11",
+    "name": "UXI Live",
+    "description": "Rishon Lezion, Hamerkaz, Israel February 11",
+    "tags": "#ux",
+    "link": "https://uxilive.co.il/2019/"
+  },
+  {
+    "id": "e2",
+    "date": "2019, 2, 12",
+    "name": "Sustainable UX: design vs. climate change",
+    "description": "Online, Online February 12",
+    "tags": "#ux @sustainableux",
+    "link": "https://sustainableux.com/"
+  },
+   {
+     "id": "e3",
+     "date": "2019, 2, 12",
+     "name": "Webstock",
+     "description": "Wellington, New Zealand, February 12-16",
+     "tags": "#ux, @webstock",
+     "link": "https://www.webstock.org.nz/"
+   }
+ ,
+   {
+     "id": "e4",
+     "date": "2019, 2, 13",
+     "name": "Frontend Developer Love",
+     "description": "Amsterdam, Netherlands, February 13-15",
+     "tags": "#javascript, @frontend_love",
+     "link": "https://www.frontenddeveloperlove.com/"
+   },
+   {
+     "id": "e5",
+     "date": "2019, 2, 14",
+     "name": "Awwwards: Digital Thinkers Conference",
+     "description": "Amsterdam, Netherlands, February 14-15",
+     "tags": "#ux, @awwwards",
+     "link": "https://conference.awwwards.com/amsterdam"
+   },
+   {
+     "id": "e6",
+     "date": "2019, 2, 14",
+     "name": "Vue.js Amsterdam",
+     "description": "Amsterdam, Netherlands, February 14-15",
+     "tags": "#javascript, @vuejsamsterdam",
+     "link": "https://www.vuejs.amsterdam/"
+   },
+   {
+     "id": "e7",
+     "date": "2019, 2, 15",
+     "name": "User Experience Hong Kong",
+     "description": "Hong Kong, Hong Kong, February 15-16",
+     "tags": "#ux, @uxhk",
+     "link": "https://conference.awwwards.com/amsterdam"
+   },
+   {
+     "id": "e8",
+     "date": "2019, 2, 18",
+     "name": "FITC Amsterdam",
+     "description": "Amsterdam, Netherlands, February 18-19",
+     "tags": "#ux #ios #android #data #general, @fitc",
+     "link": "https://fitc.ca/event/am19/"
+   },
+   {
+     "id": "e9",
+     "date": "2019, 2, 19",
+     "name": "UXistanbul",
+     "description": "Istanbul, Turkey, February 19",
+     "tags": "#ux, @ux_istanbul",
+     "link": "https://www.uxistanbul.org/"
+   },
+   {
+     "id": "e10",
+     "date": "2019, 2, 21",
+     "name": "The UX Conference",
+     "description": "London, U.K., February 21",
+     "tags": "#ux, @TheUXConf",
+     "link": "https://theuxconf.com/"
+   },
+   {
+     "id": "e11",
+     "date": "2019, 2, 23",
+     "name": "UX Thailand",
+     "description": "Bangkok, Thailand, February 23-24",
+     "tags": "#ux",
+     "link": "https://uxth.co/"
+   },
+   {
+     "id": "e12",
+     "date": "2019, 2, 24",
+     "name": "NN/g UX Conference",
+     "description": "Los Angeles, CA, U.S.A., February 24-1",
+     "tags": "#ux, @nngroup",
+     "link": "https://www.nngroup.com/training/los-angeles/"
+   },
+   {
+     "id": "e13",
+     "date": "2019, 2, 25",
+     "name": "Experience Design Week",
+     "description": "Denver, CO, U.S.A., February 25-27",
+     "tags": "#ux",
+     "link": "https://experiencedesignweek.iqpc.com/"
+   }
+
+]}
