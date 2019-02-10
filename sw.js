@@ -12,6 +12,7 @@ self.addEventListener('install', (event) => {
             './js/index.js',
             './js/events.js',
             './js/notifications.js',
+			'./images/icon.png',
             './css/styles.css',
     ]))
     .then(() => self.skipWaiting())
